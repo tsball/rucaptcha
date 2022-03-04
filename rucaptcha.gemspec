@@ -4,7 +4,7 @@ $LOAD_PATH.unshift lib unless $LOAD_PATH.include?(lib)
 require "rucaptcha/version"
 
 Gem::Specification.new do |s|
-  s.name = "rucaptcha"
+  s.name = "rucaptcha2"
   s.version = RuCaptcha::VERSION
   s.authors = "Jason Lee"
   s.email = "huacnlee@gmail.com"
